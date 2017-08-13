@@ -5,4 +5,4 @@
  * @author Rahul
  *
  */
-package com.raanjan.onlineshoping.controller;
+package com.ranjan.onlineshoping.controller;
